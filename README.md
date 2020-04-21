@@ -7,8 +7,8 @@ A curated list of awesome job boards
 
 [okjob](https://okjob.io/)
 
-[entrylevel](https://entrylevel.io/)
-[howsitlike](https://www.howsitlike.com/)
+[entrylevel](https://entrylevel.io/)   
+[howsitlike](https://www.howsitlike.com/)  
 [nowhiteboards](https://nowhiteboards.io/)
 [remotemonk](http://remotemonk.com/)
 [hellnar](https://hellnar.github.io/openings/Openings.html)

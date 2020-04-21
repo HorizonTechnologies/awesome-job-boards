@@ -1,7 +1,7 @@
 # awesome-job-boards
 A curated list of awesome job boards
 
-:computer:
+:computer: :earth_americas: 
 
 [remoteleaf](https://remoteleaf.com/)  
 [okjob](https://okjob.io/)  

@@ -20,4 +20,4 @@ A curated list of awesome job boards
 [indeed](https://indeed.com/)  
 [ziprecruiter](https://www.ziprecruiter.com/)  
 [linkedin](https://www.linkedin.com/) 
-[levels.fyi](https://www.levels.fyi/still-hiring/)
+[levels.fyi](https://www.levels.fyi/still-hiring/)  

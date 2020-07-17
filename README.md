@@ -27,3 +27,4 @@ A curated list of awesome job boards
 [naukri](http://naukri.com/)  
 [remotists](https://remotists.substack.com/)  
 [weworkremotely](https://weworkremotely.com/)  
+[EuroPython 2020](https://ep2020.europython.eu/sponsor/job-board/)

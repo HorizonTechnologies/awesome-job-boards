@@ -3,6 +3,7 @@ A curated list of awesome job boards
 
 :computer: :earth_americas: 
 
+[carrots](https://thecarrots.io/jobs)
 [remoteleaf](https://remoteleaf.com/)  
 [remoteok](https://remoteok.io/)  
 [okjob](https://okjob.io/)  

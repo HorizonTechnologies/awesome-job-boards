@@ -3,6 +3,7 @@ A curated list of awesome job boards
 
 :computer: :earth_americas: 
 
+[4 day week](https://4dayweek.io/)
 [Career Vault](https://careervault.io)
 [carrots](https://thecarrots.io/jobs)
 [remoteleaf](https://remoteleaf.com/)  

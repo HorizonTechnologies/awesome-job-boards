@@ -32,3 +32,5 @@ A curated list of awesome job boards
 [EuroPython 2020](https://ep2020.europython.eu/sponsor/job-board/)
 [AngelList](https://angel.co/)
 [findwrk](https://findwrk.app/)
+[Agentic Engineering Jobs](https://agentic-engineering-jobs.com)
+

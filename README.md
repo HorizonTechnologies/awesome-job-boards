@@ -32,3 +32,4 @@ A curated list of awesome job boards
 [EuroPython 2020](https://ep2020.europython.eu/sponsor/job-board/)
 [AngelList](https://angel.co/)
 [findwrk](https://findwrk.app/)
+[AI Dev Jobs](https://aidevboard.com/) - Job board specialized for AI/ML engineering roles; 8,400+ active listings from 580 ATS sources; free REST API + MCP server for agents.

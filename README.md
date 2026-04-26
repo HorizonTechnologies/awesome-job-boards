@@ -9,6 +9,7 @@ A curated list of awesome job boards
 [remoteok](https://remoteok.io/)  
 [okjob](https://okjob.io/)  
 [entrylevel](https://entrylevel.io/)   
+[Hanzilla Jobs](https://jobs.hanzilla.co/) - Daily-updated Canadian student and recent-grad jobs board for internships, co-ops, new-grad, junior, and entry-level roles across tech, finance, engineering, business, sciences, and more.  
 [howsitlike](https://www.howsitlike.com/)  
 [nowhiteboards](https://nowhiteboards.io/)  
 [remotemonk](http://remotemonk.com/)  

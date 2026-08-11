@@ -4,6 +4,7 @@ A curated list of awesome job boards
 :computer: :earth_americas: 
 
 [Career Vault](https://careervault.io)
+[chainjobs](https://chainjobs.io)  
 [carrots](https://thecarrots.io/jobs)
 [remoteleaf](https://remoteleaf.com/)  
 [remoteok](https://remoteok.io/)  

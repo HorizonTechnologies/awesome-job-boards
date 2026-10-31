@@ -18,6 +18,7 @@ A curated list of awesome job boards
 [workalerts](https://workalerts.netlify.com/)  
 [workfeed](http://workfeed.dev)  
 [loopcv](https://www.loopcv.pro/)  
+[Autojob](https://autojob.org/)  
 [needremote](https://needremote.com/)  
 [remotejobs](https://remotejobs.world/)  
 [indeed](https://indeed.com/)  

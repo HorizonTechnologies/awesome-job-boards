@@ -3,6 +3,7 @@ A curated list of awesome job boards
 
 :computer: :earth_americas: 
 
+[caio.pro](https://caio.pro/jobs.html) — AI and data leadership jobs, free to browse.<br>
 [Career Vault](https://careervault.io)
 [carrots](https://thecarrots.io/jobs)
 [remoteleaf](https://remoteleaf.com/)  

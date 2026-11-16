@@ -8,6 +8,7 @@ A curated list of awesome job boards
 [remoteleaf](https://remoteleaf.com/)  
 [remoteok](https://remoteok.io/)  
 [okjob](https://okjob.io/)  
+[openradar](https://openradar.fun/)  
 [entrylevel](https://entrylevel.io/)   
 [howsitlike](https://www.howsitlike.com/)  
 [nowhiteboards](https://nowhiteboards.io/)  
